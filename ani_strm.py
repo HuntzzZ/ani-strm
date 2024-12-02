@@ -86,7 +86,7 @@ def create_strm_files(lines):
     :param lines: 处理后的行列表
     """
     # 获取当前执行目录
-    current_dir = os.getcwd()
+lot    current_dir = os.getcwd()
     print("当前脚本执行目录为:", current_dir)
 
     # 处理解码并处理后的内容，创建.strm 文件
