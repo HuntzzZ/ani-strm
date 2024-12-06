@@ -25,9 +25,9 @@
 ## 脚本使用指南
 一、 把”strm.py“下载下来，导入到你想放的文件夹里面。
 
-二、使用ssh命令cd到strm.py存放的目录，执行 chmod +x ani_strm.py
+二、使用ssh命令cd到ani_strm.py存放的目录，执行 chmod +x ani_strm.py
 
-三、执行./strm.py，按照提示输入Ani open项目内你需要制作strm文件番剧的第一个地址，格式如下：
+三、执行./ani_strm.py，按照提示输入Ani open项目内你需要制作strm文件番剧的第一个地址，格式如下：
 ```
 https://openani.an-i.workers.dev/2022-10/BLEACH%20%E6%AD%BB%E7%A5%9E%20%E5%8D%83%E5%B9%B4%E8%A1%80%E6%88%B0%E7%AF%87/%5BANi%5D%20BLEACH%20%E6%AD%BB%E7%A5%9E%20%E5%8D%83%E5%B9%B4%E8%A1%80%E6%88%B0%E7%AF%87%20-%2001%20%5B1080P%5D%5BBaha%5D%5BWEB-DL%5D%5BAAC%20AVC%5D%5BCHT%5D.mp4?a=view
 或者
