@@ -29,7 +29,7 @@
 二、使用ssh命令cd到ani_strm.py存放的目录，执行 chmod +x ani_strm.py
 ```
 cd /path/ #path为ani-strm.py的存放目录
-chmod +x ani-strm.py #调整strm.py的文件权限
+chmod +x ani-strm.py #调整ani-strm.py的文件权限
 ```
 三、执行./ani_strm.py，按照提示输入Ani open项目内你需要制作strm文件番剧的第一个地址，格式如下：
 ```
