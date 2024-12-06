@@ -50,6 +50,7 @@ https://openani.an-i.workers.dev/2022-10/BLEACH 死神 千年血戰篇/[ANi] BLE
 <div align="center">
 	<img src="./images/ani_strm.py.png" width="1000px">
 </div>
+
 ### 当使用strm.py版本时
 一、 把”strm.py“下载下来，导入到你想放的文件夹里面。
 
