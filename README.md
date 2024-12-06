@@ -75,3 +75,7 @@ chmod +x strm.py #调整strm.py的文件权限
 
 ## 更新日志
 - 2024.11.27：v1.0，创建粗糙的项目
+
+## 特别感谢
+- (Ani Open项目)[https://openani.an-i.workers.dev/]
+- 
