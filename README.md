@@ -11,6 +11,7 @@
 [注意事项](#注意事项) •
 [TODO LIST](#todo-list) •
 [更新日志](#更新日志) •
+[特别感谢](#特别感谢) •
 
 </div>
 
@@ -78,4 +79,3 @@ chmod +x strm.py #调整strm.py的文件权限
 
 ## 特别感谢
 - (Ani Open项目)[https://openani.an-i.workers.dev/]
-- 
