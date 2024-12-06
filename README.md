@@ -15,6 +15,10 @@
 
 </div>
 
+<div align="center">
+	<img src="./images/emby.png" width="1000px">
+</div>
+
 ## 关于脚本
 - 本项目是一款专为Strm文件处理而设计的 Python 脚本工具集，写本脚本的初衷为实现代替手动生成strm文件供给emby的读取，脚本从原理上来讲适用于一切能取得视频文件直链的方式，但由于本脚本的主要目的是满足本人处理Ani Open项目的番剧地址，故而命名仅仅适配了Ani Open的命名格式。若您由其他命名格式的处理需求可提出issue。
 - 本脚本为了应付命名规范与否保留了两版，strm版本仅仅能够处理**output.txt** 内编辑而来的直链地址，txt内的每行的内容写成strm文件，ani_strm.py版本能处理符合命名规范的地址，用户可依特定格式输入视频地址示例及所需生成行数，脚本便能精准创建包含递增集数的多个视频地址，并写入**output.txt**文件。
@@ -24,6 +28,7 @@
 
 
 ## 脚本使用指南
+
 ### 当使用ani-strm.py版本时
 一、 把”ani-strm.py“下载下来，导入到你想放的文件夹里面。
 
@@ -42,6 +47,9 @@ https://openani.an-i.workers.dev/2022-10/BLEACH 死神 千年血戰篇/[ANi] BLE
 ```
 四、按照提示脚本提示生成output.txt文件，确认内容无误后生成strm文件，请自行确认strm文件内的地址有效性。
 五、推荐将生成后的strm文件交由Moviepilot整理刮削转移，转移方式推荐复制。
+<div align="center">
+	<img src="./images/ani_strm.py.png" width="1000px">
+</div>
 ### 当使用strm.py版本时
 一、 把”strm.py“下载下来，导入到你想放的文件夹里面。
 
