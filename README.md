@@ -23,7 +23,8 @@
 
 
 ## 脚本使用指南
-一、 把”strm.py“下载下来，导入到你想放的文件夹里面。
+### 当使用ani-strm.py版本时
+一、 把”ani-strm.py“下载下来，导入到你想放的文件夹里面。
 
 二、使用ssh命令cd到ani_strm.py存放的目录，执行 chmod +x ani_strm.py
 
@@ -36,7 +37,18 @@ https://openani.an-i.workers.dev/2022-10/BLEACH 死神 千年血戰篇/[ANi] BLE
 https://openani.an-i.workers.dev/2022-10/BLEACH 死神 千年血戰篇/[ANi] BLEACH 死神 千年血戰篇 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4?a=view
 ```
 四、按照提示脚本提示生成output.txt文件，确认内容无误后生成strm文件，请自行确认strm文件内的地址有效性。
+### 当使用strm.py版本时
+一、 把”strm.py“下载下来，导入到你想放的文件夹里面。
 
+二、使用ssh命令cd到strm.py存放的目录，执行 chmod +x strm.py
+```
+cd /path/ #path为strm.py的存放目录
+chmod +x strm.py #调整strm.py的文件权限
+```
+三、执行./strm.py,执行后会提示未找到 input_video_urls.txt 文件，将创建该文件，请自行编辑input_video_urls.txt后重新运行脚本，脚本将直接按照txt内的文本每行的内容写成strm文件。
+```
+./strm.py
+```
 ## 注意事项
 ### （一）输入格式准确性
 严格依要求格式输入视频地址示例，确保方括号、尖括号、中文字符、集数格式（如 01）及文件扩展名等元素准确，错误格式或致处理异常。
