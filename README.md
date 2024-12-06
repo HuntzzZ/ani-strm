@@ -41,6 +41,7 @@ https://openani.an-i.workers.dev/2022-10/BLEACH 死神 千年血戰篇/[ANi] BLE
 https://openani.an-i.workers.dev/2022-10/BLEACH 死神 千年血戰篇/[ANi] BLEACH 死神 千年血戰篇 - 01 [1080P][Baha][WEB-DL][AAC AVC][CHT].mp4?a=view
 ```
 四、按照提示脚本提示生成output.txt文件，确认内容无误后生成strm文件，请自行确认strm文件内的地址有效性。
+五、推荐将生成后的strm文件交由Moviepilot整理刮削转移，转移方式推荐复制。
 ### 当使用strm.py版本时
 一、 把”strm.py“下载下来，导入到你想放的文件夹里面。
 
@@ -53,6 +54,7 @@ chmod +x strm.py #调整strm.py的文件权限
 ```
 ./strm.py
 ```
+四、推荐将生成后的strm文件交由Moviepilot整理刮削转移，转移方式推荐复制。
 ## 注意事项
 ### （一）输入格式准确性
 严格依要求格式输入视频地址示例，确保方括号、尖括号、中文字符、集数格式（如 01）及文件扩展名等元素准确，错误格式或致处理异常。
